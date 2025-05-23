@@ -16,11 +16,10 @@ A modular and extensible Packet Sniffer built in Python using Scapy, capable of 
 ⚙️ Customizable: Easily extend to support more protocols or export formats.
 
 🛠️ Requirements
-Python 3.x
+1. Python 3.x
 
-Admin/root privileges to capture packets
+2. Admin/root privileges to capture packets
 
-scapy library
+3. scapy library
 
-Install Dependencies
-pip install scapy
+
